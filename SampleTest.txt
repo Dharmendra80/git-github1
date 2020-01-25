@@ -3,3 +3,5 @@ This is first code file.
 I am Java Developer and I am developing and Gaming Project. Dharmendra Mishra.
 
 I am a Salesforce Developer 2020.
+I am a Docker Developer 2020.
+I am a HTML5,CSS3,Angular,jQuery,AJAX.
