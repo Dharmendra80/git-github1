@@ -10,3 +10,4 @@ We have done so much of work together.
 Modifying Master file for creating the Merge conflict
 
 Adding new lecutr for git stash
+Multiple stash example
