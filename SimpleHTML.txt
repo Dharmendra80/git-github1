@@ -1,0 +1,1 @@
+Simple HTML add for git stash testing
