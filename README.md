@@ -7,4 +7,4 @@ learing git rebase lecture and git advance part.
 
 We have done so much of work together.
 
-Creating merge conflict for Rebase training
+Modifying Master file for creating the Merge conflict
